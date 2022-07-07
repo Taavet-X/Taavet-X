@@ -28,7 +28,6 @@ Evolutionary Computation, Artificial Intelligence, Bioinformatics
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.minecraft.net/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/minecraft-1.svg" width="36" height="36" alt="Minecraft" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/blender-2.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/android.svg" width="36" height="36" alt="Android" /></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="36" height="36" alt="Arduino" /></a>
