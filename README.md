@@ -2,9 +2,6 @@ Hi 👋 My name is David Estrada
 ==============================
 
 Computer Sciences Student
--------------------------
-
-Evolutionary Computation, Artificial Intelligence, Bioinformatics
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [david.estrada@null.net](mailto:david.estrada@null.net)
