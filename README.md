@@ -34,4 +34,5 @@ Computer Sciences Student
 ### Socials
 
 <p align="left"></a> <a href="https://www.github.com/Desth-X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/Desth.X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<a href="http://www.instagram.com/Desth.X" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.tiktok.com/@taavet.x" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327400/logo-tiktok.svg" width="32" height="32" /></a></p>
