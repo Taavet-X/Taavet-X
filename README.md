@@ -4,7 +4,7 @@ Hi 👋 My name is David Estrada
 Computer Sciences Student
 
 * 🌍  I'm based in Colombia
-* ✉️  You can contact me at [david.estrada@null.net](mailto:david.estrada@null.net)
+* ✉️  You can contact me at [taavet@null.net](mailto:david.estrada@null.net)
 
 ### Skills
 
