@@ -1,7 +1,7 @@
 Hi 👋 My name is David Estrada
 ==============================
 
-I'm a Computer Sciences Student Appasionated by the fields of Computer Graphics, Sound and Music Computing.
+Computer Sciences Student.
 
 * 🌍  I'm based in Colombia
 * ✉️  You can contact me at [taavet@null.net](mailto:david.estrada@null.net)
