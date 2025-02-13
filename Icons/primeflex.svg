@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="233.19638"
+   height="233.19565"
+   viewBox="0 0 233.19638 233.19565"
+   fill="none"
+   version="1.1"
+   id="svg29"
+   sodipodi:docname="PrimeFlexLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M 233.19638,116.59764 116.59838,1.8795013e-8 -2.34375e-8,116.59764 116.59838,233.19564 Z m -93.786,-41.896598 21.29,-2.0269 -14.194,-14.1885 h -14.193 z m -36.498,-16.2151 -8.077504,19.1764 -36.5319,-2.961 6.083,25.336298 43.594404,16.216 h 6.084 V 58.485942 Z m -15.207404,60.807698 9.1245,-2.027 -7.0968,10.135 v 31.417 l -24.3318,-20.269 v -34.458 l 11.1521,4.054 z m 56.774404,0 -9.125,-2.027 7.097,10.135 v 31.417 l 24.332,-20.269 v -34.458 l -11.152,4.054 z m -43.718,-2.176 -8.086904,12.186 v 45.698 l 6.0654,9.139 7.076504,7.109 h 20.218 l 7.076,-7.109 6.065,-9.139 v -45.698 l -8.087,-12.186 -5.054,3.046 h -20.218 z m 41.69,60.957 13.18,-13.175 v -13.175 l -13.18,11.148 z m -65.898404,-13.175 13.1797,13.175 v -15.202 l -13.1797,-11.148 z m 41.566404,-48.646 V 58.485942 h 11.152 l 8.078,19.1783 37.544,-2.9629 -6.083,25.336298 -43.594,16.216 z m -46.635504,-43.579498 21.2903,2.0269 7.0972,-16.2154 h -14.194 z"
+     fill="url(#paint9_linear_624_140867)"
+     id="path10"
+     style="fill:url(#paint9_linear_624_140867)" />
+  <defs
+     id="defs29">
+    <linearGradient
+       id="paint9_linear_624_140867"
+       x1="458"
+       y1="-127.142"
+       x2="741.88202"
+       y2="329.74399"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.73962402,-0.79235798)">
+      <stop
+         stop-color="#00E08F"
+         id="stop28" />
+      <stop
+         offset="1"
+         stop-color="#00A3FF"
+         id="stop29" />
+    </linearGradient>
+  </defs>
+</svg>
